@@ -1,4 +1,4 @@
-# Simple sh scripts to check paid-till parameter  in zabbix
+# Simple zabbix template and sh scripts to check paid-till parameter
 
   - Change ip and port in proxy
   - Put script to /usr/lib/zabbix/externalscripts/ or similar
